@@ -4,16 +4,16 @@
 
 This project will be executed in the following phases:
 
-### Phase 1: Setup and Discovery (In Progress)
+### Phase 1: Setup and Discovery (Completed)
 
 *   **Objective:** Establish a baseline understanding of the existing Zendesk environment.
 *   **Tasks:**
     *   [x] Create project documentation files (`README.md`, `PLAN.md`, `ZENDESK_API_NOTES.md`, `CONSTRAINTS.md`, `DECISION_LOG.md`).
     *   [x] Write a Python script to connect to the Zendesk API.
-    *   [ ] Export a list of all current custom ticket fields and tags.
-    *   [ ] Present the findings for review.
+    *   [x] Export a list of all current custom ticket fields and tags.
+    *   [x] Present the findings for review.
 
-### Phase 2: Core Logic and Testing
+### Phase 2: Core Logic and Testing (In Progress)
 
 *   **Objective:** Develop the main application logic and ensure it's testable.
 *   **Tasks:**

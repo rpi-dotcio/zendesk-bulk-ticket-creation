@@ -14,10 +14,14 @@ This project is a Python application designed to automate the creation of Zendes
 *   Handle API rate limits gracefully.
 *   Securely manage API credentials.
 
+## Source Code
+
+[https://github.com/rpi-dotcio/zendesk-bulk-ticket-creation](https://github.com/rpi-dotcio/zendesk-bulk-ticket-creation)
+
 ## Project Status
 
-**Current Phase:** [Current Phase]
-**Next Step:** [Next Step]
+**Current Phase:** Phase 2: Core Logic and Testing
+**Next Step:** Implement Requestor Logic
 
 ## Setup and Usage
 

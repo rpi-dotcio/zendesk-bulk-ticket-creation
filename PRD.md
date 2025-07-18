@@ -46,7 +46,7 @@ RPI College uses Zendesk for all help desk and IT tickets. A large number of Win
 
 ## 3.4. Development & Operations
 *   **Version Control:**
-    *   A new GitHub repository will be created for the project under the `RPI DotCIO` organization.
+    *   A new GitHub repository will be created for the project at [https://github.com/rpi-dotcio/zendesk-bulk-ticket-creation](https://github.com/rpi-dotcio/zendesk-bulk-ticket-creation).
     *   All code changes must be committed to GitHub with clear, descriptive messages.
 *   **Code Quality:** All code must be thoroughly commented, with professional file headers explaining the purpose of each module.
 *   **Testing:** The application must include a "test mode" that allows for the creation and subsequent deletion of a single test ticket to verify functionality without impacting real data.

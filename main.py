@@ -1,4 +1,3 @@
-
 """
 Zendesk Bulk Ticket Creation Tool
 
@@ -10,6 +9,7 @@ create tickets in Zendesk.
 import argparse
 import pandas as pd
 import sys
+import numpy as np
 
 def load_spreadsheet(file_path):
     """
@@ -81,9 +81,9 @@ def main():
         # Apply the mapping to the Assets DataFrame
         assets_df['is_employee'] = assets_df['idp_Basic_Status'].map(employee_map)
 
-        print("\n--- 'Assets' Sheet Head with Employee Mapping ---")
-        # Displaying relevant columns for verification
-        print(assets_df[['Hostname', 'idp_Basic_Status', 'is_employee']].head())
+        print("\n--- Assets DataFrame Columns ---")
+        for col in assets_df.columns:
+            print(f"- {col}")
 
         # Future phases will add processing logic here.
         print("\n--- Spreadsheet processing complete. ---")

@@ -1,0 +1,698 @@
+ID                  | Type                | Title
+--------------------|---------------------|--------------------
+114101328392        | assignee            | Assignee
+114101328372        | group               | Group
+114101328292        | description         | Description
+360001547531        | textarea            | Event Description
+360001519372        | text                | Fifth CRN
+360001177092        | text                | Location of problem
+360001230611        | text                | Missing device MAC
+360001230631        | text                | Model
+360001519392        | tagger              | Number of CRN requests
+360001230851        | text                | Principal Investigator
+360001177612        | text                | Printer name
+360001519112        | text                | Prior Course Number
+114101328352        | priority            | Priority
+360001177632        | text                | RCS ID
+360001230111        | text                | Requester's Phone Number
+114101328312        | status              | Status
+114101328272        | subject             | Subject
+360001177112        | tagger              | Submission on behalf of someone else Yes/No?
+360001797131        | textarea            | Summary/Resolution
+360001546511        | text                | Third Course Number
+360001546531        | text                | Third CRN
+114101328332        | tickettype          | Type
+360001177132        | text                | Requester's First and Last Name
+360001177392        | tagger              | Request category (automated)
+360001519152        | text                | Semester/Year Last Offered
+360001230131        | tagger              | Requester's Department/School
+360001177652        | tagger              | Impact
+360001519212        | text                | First CRN
+360001546551        | text                | Fourth CRN
+360001177152        | text                | Requester's Alternate phone number
+360001229931        | text                | Requester's Email
+360001177192        | text                | Requester's Room
+360001520452        | tagger              | Operating System
+360001177672        | text                | Undeliverable Message
+360001546571        | textarea            | Additional CRNs
+360001177172        | tagger              | Requester's Building
+360001229911        | text                | Category
+360001177432        | text                | Alternate phone
+360001519192        | text                | First Course Number
+360001520472        | tagger              | Mobile Device
+360001177692        | text                | User ID
+360001519712        | tagger              | Design session?
+360001177452        | text                | Client
+360001520492        | tagger              | Connection Type
+360001230451        | text                | Browser & version
+360001547131        | tagger              | Type of Support
+360001177212        | text                | Requester's Location of problem if different
+360001546111        | tagger              | Campus Location
+360001229951        | text                | Requester's Alternate email
+360001177472        | tagger              | Did it work previously Yes/No?
+360001519232        | text                | Second Course Number
+360001520512        | tagger              | Firewall?
+360001177732        | text                | Webpage
+360001520772        | tagger              | Room Requested
+360001176712        | text                | Phone Number(s)
+360001177232        | tagger              | Received via
+360001177492        | text                | Error code/message
+360001519252        | text                | Second Section
+360001520792        | date                | Date
+360001230491        | text                | Header details
+360001229731        | tagger              | Requester Status
+360001519012        | text                | New Course Title
+360001547431        | text                | Course Number
+360001177512        | text                | HD Diags
+360001519272        | text                | Third Section
+360001520552        | text                | Course Title
+360001520812        | tagger              | Start am/pm
+360001230511        | text                | IP Address(es)
+360001177012        | tagger              | Department
+360001519032        | text                | New Course Number
+360001547451        | date                | End Date
+360001177532        | text                | Name of software
+360001519292        | text                | Fourth Section
+360001520572        | tagger              | Mac OS
+360001546431        | text                | Prior Course Section(s)
+360001520832        | text                | Street address
+360001547971        | tagger              | Topic
+360001230531        | text                | IP config
+360001230791        | text                | OS/Host name
+360001177032        | tagger              | School
+360001519052        | tagger              | Semester Next Offered
+360001547471        | text                | Start Time
+360001177552        | text                | NSlookup
+360001519312        | text                | Fourth Course Number
+360001520592        | tagger              | Windows
+360001546451        | tagger              | Section Handling
+360001230291        | tagger              | Requester's Floor
+360001520852        | text                | Zip code
+360001547991        | text                | Campus affiliation
+360001230551        | text                | IP config / All
+360001546971        | tagger              | Type of User
+360001229531        | text                | First and Last Name
+360001177052        | tagger              | Building
+360001519072        | tagger              | Based on existing site?
+360001547491        | tagger              | End AM/PM
+360001177572        | text                | OS
+360001519332        | text                | Fifth Course Number
+360001520612        | text                | Page URL
+360001546471        | text                | First Section
+360001520872        | text                | Country
+360001546731        | text                | Requester RCS UserID
+360001548011        | text                | City
+360001230571        | text                | Jack ID
+360001229551        | text                | Non-RPI Email Address
+360001230831        | text                | Phone Extension
+360001177072        | tagger              | Floor
+360001519092        | text                | Prior Course Title
+360001547511        | text                | End Time
+360001177592        | text                | PC name
+360001546491        | text                | Second CRN
+360001520892        | text                | Purpose of research
+360001548031        | text                | State
+360001230591        | text                | MAC address
+114101364012        | tagger              | Service
+360001177712        | text                | Version
+360001229711        | text                | RIN
+360001230471        | text                | Error message
+360001230871        | text                | Software name
+360001519172        | text                | RCS userID
+360001519352        | text                | Fifth Section
+360002340252        | tagger              | Network Request Type
+360002340552        | tagger              | Type of Device (select one)
+360002340572        | tagger              | CISCO confirmation
+360002340592        | textarea            | Script/Network Configuration
+360002340612        | date                | Start Date
+360002361951        | tagger              | Do you have a dial tone Yes/No?
+360002361971        | text                | SSID
+360002395312        | text                | When did the problem start?
+360002395612        | tagger              | Support Request Category
+360002395632        | tagger              | Email Issue Type
+360002395652        | tagger              | Software Issue Type
+360002405451        | tagger              | Printing Issue Type
+360002566612        | tagger              | Phone Request Category
+360002641372        | tagger              | OS
+360002835072        | checkbox            | Redirected
+360002946392        | text                | Billing Contact Name(s)
+360002946552        | text                | Location for this install
+360002971291        | text                | Billing Department/Campus Affiliation
+360002971471        | text                | Billing Account Number(s)
+360003201692        | multiselect         | Network Installation Type
+360003230931        | tagger              | A phone jack is present in the room?
+360003232311        | tagger              | MCP Laptop?
+360003361972        | multiselect         | Browser Multi Select
+360003400291        | text                | URL/Web Address
+360003403311        | tagger              | MorningMail Request Category
+360003449071        | date                | Date due
+360003454851        | tagger              | Request Type
+360003712652        | text                | Event Location
+360003732311        | text                | Date & Time of event
+360004052392        | tagger              | Web Services Request category
+360004071131        | text                | Phone MAC Address
+360004126352        | tagger              | Has content?
+360004127632        | date                | When will the content/graphics be available?
+360004277031        | text                | URL/Web Address containing the Broken/Inaccessible Link
+360004534252        | tagger              | My computer is behind a Firewall
+360004536792        | text                | Section
+360004579311        | tagger              | LMS Request Category
+360004579331        | text                | Browser Version
+360004579351        | tagger              | Connection Type
+360004581831        | text                | Course Number
+360004581851        | text                | CRN
+360004596892        | text                | Correct URL/Web Address
+360004636491        | text                | URL/Web Address of the Broken Link
+360004784392        | text                | New Course Title
+360004784692        | tagger              | Campus Location
+360004784712        | tagger              | Course based on an existing/previous course site?
+360004785012        | tagger              | How many course numbers, sections and CRNs associated with this request?
+360004828571        | text                | New Course Number
+360004896691        | tagger              | Web Browser
+360005133892        | text                | Seventh CRN
+360005133912        | text                | Eighth Section
+360005134072        | text                | Ninth Course Number
+360005134092        | text                | Ninth CRN
+360005134112        | text                | Tenth Course Number
+360005134132        | text                | Tenth Section
+360005134152        | text                | Eleventh Course Number 
+360005134172        | text                | Eleventh CRN
+360005135352        | text                | Twelfth Section
+360005135372        | text                | Twelfth CRN
+360005185631        | text                | Sixth Course Number
+360005185651        | text                | Sixth Section
+360005185671        | text                | Sixth CRN
+360005185831        | text                | Seventh Course Number
+360005185851        | text                | Seventh Section
+360005185871        | text                | Eighth Course Number
+360005185911        | text                | Eighth CRN
+360005185931        | text                | Ninth Section
+360005186091        | text                | Tenth CRN
+360005186111        | text                | Eleventh Section
+360005188371        | text                | Twelfth Course Number
+360005188391        | text                | Thirteenth Course Number
+360005188411        | text                | Thirteenth Section
+360005188431        | text                | Thirteenth CRN
+360005235991        | tagger              | MultiMedia Trouble Type
+360005514152        | text                | Fifteenth Course Number
+360005514172        | text                | Fifteenth CRN
+360005514192        | text                | Sixteenth Course Number
+360005514212        | text                | Sixteenth Section
+360005514232        | text                | Seventeenth Course Number
+360005514252        | text                | Eighteenth CRN
+360005514272        | text                | Nineteenth Course Number
+360005514292        | text                | Nineteenth CRN
+360005562631        | text                | Fourteenth Course Number
+360005562791        | text                | Fourteenth CRN
+360005562811        | text                | Fourteenth Section
+360005562831        | text                | Fifteenth Section
+360005562851        | text                | Sixteenth CRN
+360005563011        | text                | Seventeenth CRN
+360005563031        | text                | Seventeenth Section
+360005563051        | text                | Eighteenth Course Number
+360005563071        | text                | Eighteenth Section
+360005563091        | text                | Nineteenth Section
+360005563111        | text                | Twentieth Course Number
+360005563131        | text                | Twentieth CRN
+360005563151        | text                | Twentieth Section
+360005594571        | checkbox            | Off-Shift
+360005788892        | tagger              | Multimedia Request Services
+360005912192        | text                | Course Number
+360005912492        | text                | Instructor's Phone
+360005912512        | tagger              | Is this request(s) for the entire semester?
+360005912532        | tagger              | Which semester is this reservation for?
+360005912552        | text                | What room does the first class take place in?
+360005912572        | tagger              | What day of the week does your first class meet?
+360005912732        | multiselect         | Services Needed for first course (select all that apply)
+360005912792        | textarea            | Course Description or Note
+360005913112        | text                | What room does the third class take place in?
+360005913132        | text                | What time does your second class start?
+360005913292        | multiselect         | Equipment Needed for second course
+360005913312        | multiselect         | Equipment Needed for third course
+360005951151        | tagger              | Please select the type of course it is
+360005951311        | text                | Name of Course
+360005951331        | text                | Instructor's Name
+360005951351        | text                | Instructor's Email
+360005951371        | text                | Which building does the first class take place in?
+360005951391        | tagger              | Is your course in the same location each day?
+360005951411        | text                | What time does your first class start?
+360005951571        | text                | What time does your first class end?
+360005951591        | multiselect         | Equipment Needed for first course
+360005951751        | textarea            | Additional equipment and services
+360005951771        | tagger              | How many classes do you need to schedule?
+360005951791        | tagger              | What day of the week does your second class meet?
+360005951811        | tagger              | What day of the week does your third class meet?
+360005951831        | text                | Which building does the second class take place in?
+360005951851        | text                | Which building does the third class take place in?
+360005951871        | text                | What room does the second class take place in?
+360005951911        | text                | What time does your third class start?
+360005952071        | text                | What time does your second class end?
+360005952091        | text                | What time does your third class end?
+360005952431        | multiselect         | Services Needed for second course (select all that apply)
+360005952591        | multiselect         | Services Needed for third course (select all that apply)
+360006144592        | text                | GitHub Organization name
+360006144632        | text                | GitHub Organization Description
+360006144652        | text                | GitHub CoOwner
+360008550812        | text                | New shared mailbox name
+360010834952        | text                | Requester's Department or School
+360010841232        | tagger              | Server Request
+360010843852        | tagger              | Administrative Applications
+360010844072        | tagger              | SIS
+360010844252        | tagger              | Data Warehouse
+360010844832        | tagger              | FAMIS (CMMS)
+360010844892        | tagger              | DegreeWorks
+360010844952        | tagger              | Automic
+360010845012        | tagger              | Imaging (NOLIJ/OnBase)
+360010845092        | tagger              | Advance
+360010845332        | tagger              | SmartCall
+360010951071        | text                | Requester's building name
+360010961431        | tagger              | Banner
+360010961751        | tagger              | OBIEE
+360010962251        | tagger              | BRIO
+360010962911        | tagger              | AIMS
+360010963491        | tagger              | Advizor
+360010963531        | tagger              | iModules
+360010963691        | tagger              | Workflow
+360010963711        | tagger              | LDI
+360010963791        | tagger              | FuelMaster
+360011036612        | text                | Billing Contact Phone Number(s)
+360011076172        | text                | Instructor's RCS userid
+360011082372        | date                | Date of the problem
+360011082732        | text                | Course Title
+360011084732        | textarea            | Description or Note
+360011084772        | text                | What room does the event take place in?
+360011084792        | text                | What time does your event start?
+360011084812        | text                | What time does your event end?
+360011084852        | text                | Billing Account Number
+360011084872        | checkbox            | Document Camera
+360011084892        | checkbox            | DVD Player/Blu-Ray Player
+360011084912        | checkbox            | Large TV/Display on a portable cart
+360011085072        | checkbox            | Multimedia Projector
+360011085092        | checkbox            | Podium
+360011085112        | checkbox            | Speakers/Sound System
+360011085132        | checkbox            | Carousel Digital Signage to promote your event
+360011085172        | checkbox            | Meet and Greet
+360011085192        | checkbox            | Recording
+360011085212        | checkbox            | Video Conferencing
+360011085932        | text                | Name of Event
+360011086032        | text                | Please remember to attach any documents relevant to your event
+360011087612        | tagger              | What is your status on campus?
+360011087632        | text                | If you would like a Carousel account, what is your RCS userid?
+360011087652        | date                | What date would you like them to stop airing?
+360011087812        | checkbox            | Student - Channel 80.1 on the Rensselaer Television Network
+360011089152        | checkbox            | CIO TV - Channel 84.1 on the Rensselaer Television Network
+360011090152        | textarea            | Additional information you would like us to know
+360011090712        | text                | Billing Contact Email
+360011113352        | tagger              | Administrative Applications (select one)
+360011113932        | tagger              | Support Request Category (select one)
+360011113952        | textarea            | Provide the schedule for the course you would like recorded
+360011113972        | text                | Project Title
+360011113992        | text                | If you have a budget for the your request what is it?
+360011114292        | text                | How many people will attend on the RPI side of the call?
+360011114312        | text                | Who is the technical contact for the far side of the call?
+360011114332        | text                | What is the email address for the far side technical contact?
+360011114352        | text                | What is the telephone number of the far side technical contact?
+360011166772        | text                | Requester's Userid
+360011167692        | tagger              | Would you (or the instructor) like to arrange a course design session with a LMS support person?
+360011185471        | text                | Instructor Name
+360011185491        | text                | Instructor's RPI email address
+360011185511        | text                | Instructor's phone number
+360011185531        | tagger              | Are you the instructor completing this form?
+360011190851        | tagger              | MultiMedia Request Category
+360011191531        | text                | Time of the problem
+360011191551        | text                | Building (please specify)
+360011191571        | text                | Room
+360011191751        | tagger              | Is the Course listed in the Registrar Catalog Yes/No?
+360011192191        | tagger              | Is this request for the entire semester Yes/No?
+360011192351        | tagger              | Which semester is this reservation for?
+360011194331        | text                | Name of Lecture or Lecture Series
+360011194351        | text                | Department or Campus Affiliation
+360011194511        | text                | Primary Contact Name
+360011194531        | text                | Primary Contact Email
+360011194571        | text                | Primary Contact Phone
+360011194651        | date                | Date of the event
+360011194671        | text                | Which building does the event take place in?
+360011194691        | text                | Do you wish to have an AV Technician onsite during your entire event?
+360011194751        | tagger              | Do you wish to have an AV Technician onsite during your entire event?
+360011194811        | checkbox            | Microphone Clip-On Lapel Wireless
+360011194831        | checkbox            | Microphone Handheld Wireless
+360011194991        | checkbox            | Microphone on the Podium
+360011195031        | checkbox            | Portable Projection Screen
+360011195051        | checkbox            | Web Streaming
+360011196671        | text                | Name of the student club/entity that is hosting the event
+360011197191        | text                | Date and Time available for training
+360011197352        | text                | Cable TV Problem
+360011197592        | checkbox            | Cable TV support is provided by the Vendor
+360011197771        | textarea            | If you just wish to post an announcement, what is it you are promoting?
+360011197791        | date                | What date would you like your announcement(s) to start airing?
+360011197831        | textarea            | If you are not attaching a graphic, we can create one using a template.  What would you like the announcement/slide to say?
+360011197851        | checkbox            | Bulletin Board - Channel 81.1 on the Rensselaer Television Network
+360011197891        | checkbox            | ENG TV (School of Engineering) - Channel 83.1 on the Rensselaer Television Network
+360011197911        | checkbox            | News & Information - Channel 80.2 on the Rensselaer Television Network
+360011197931        | checkbox            | Sports/Athletics - Channel 83.2 on the Rensselaer Television Network
+360011198831        | textarea            | Please describe your project
+360011198851        | date                | When is your completion date?
+360011198871        | text                | If there is a specific room in mind please enter it here
+360011198891        | text                | If there is a specific building in mind please enter it here
+360011199271        | text                | CIO TV - Channel 84.1 on the Rensselaer Television Network
+360011199891        | tagger              | Photography request type
+360011201071        | text                | Title - What's it for?
+360011221291        | text                | Building and Room number you have been assigned to
+360011221591        | tagger              | How will you be paying for any charges incurred?
+360011221611        | text                | Do you have a location on campus where you would like to do the video conference from?
+360011239572        | text                | Switch
+360011239692        | text                | Port Description
+360011244012        | text                | What day of the week does your fourth class meet?
+360011244312        | tagger              | Do you need to schedule a second class Yes/No?
+360011244472        | tagger              | Do you need to schedule a third class Yes/No?
+360011244512        | checkbox            | 4 Document Camera
+360011244532        | checkbox            | 3 DVD Player/Blu-Ray Player
+360011244552        | checkbox            | 4 Large TV/Display on a portable cart
+360011244572        | checkbox            | 2 Microphone Clip-On Lapel Wireless
+360011244592        | checkbox            | 3 Microphone Clip-On Lapel Wireless
+360011244612        | checkbox            | 4 Microphone Clip-On Lapel Wireless
+360011244632        | checkbox            | 2 Microphone Handheld Wireless
+360011244792        | checkbox            | 4 Microphone on the Podium
+360011245252        | checkbox            | 2 Podium
+360011245272        | checkbox            | 3 Podium
+360011245292        | checkbox            | 4 Portable Projection Screen
+360011245312        | checkbox            | 2 Speakers/Sound System
+360011245352        | checkbox            | 2 Meet and Greet
+360011245412        | checkbox            | 4 Meet and Greet
+360011245432        | checkbox            | 2 Recording
+360011245592        | checkbox            | 3 Recording
+360011245612        | checkbox            | 2 Web Streaming
+360011245932        | checkbox            | 4 Video Conferencing
+360011256252        | text                | Do you have a location on campus where you would like to do the web streaming from?
+360011349631        | text                | Netbios Name
+360011349651        | text                | WiFi MAC Address
+360011349811        | text                | Wired MAC Address
+360011349831        | text                | Port Number
+360011350312        | text                | Hostname
+360011353891        | text                | Which building does the fourth class take place in?
+360011353911        | text                | What room does the fourth class take place in?
+360011353951        | text                | What time does your fourth class start?
+360011353971        | text                | What time does your fourth class end?
+360011353991        | textarea            | If you have a request for goods or services not listed above please enter them here
+360011354011        | tagger              | Do you need to schedule a fourth class Yes/No?
+360011354051        | checkbox            | 2 Document Camera
+360011354091        | checkbox            | 3 Document Camera
+360011354131        | checkbox            | 2 DVD Player/Blu-Ray Player
+360011354151        | checkbox            | 4 DVD Player/Blu-Ray Player
+360011354171        | checkbox            | 2 Large TV/Display on a portable cart
+360011354191        | checkbox            | 3 Large TV/Display on a portable cart
+360011354351        | checkbox            | 3 Microphone Handheld Wireless
+360011354371        | checkbox            | 4 Microphone Handheld Wireless
+360011354391        | checkbox            | 2 Microphone on the Podium
+360011354411        | checkbox            | 3 Microphone on the Podium
+360011354431        | checkbox            | 2 Multimedia Projector
+360011354471        | checkbox            | 3 Multimedia Projector
+360011354491        | checkbox            | 4 Multimedia Projector
+360011354511        | checkbox            | 4 Podium
+360011354671        | checkbox            | 2 Portable Projection Screen
+360011354691        | checkbox            | 3 Portable Projection Screen
+360011354711        | checkbox            | 3 Speakers/Sound System
+360011354731        | checkbox            | 4 Speakers/Sound System
+360011354751        | checkbox            | 3 Meet and Greet
+360011354931        | checkbox            | 4 Recording
+360011354951        | checkbox            | 3 Web Streaming
+360011354971        | checkbox            | 4 Web Streaming
+360011354991        | checkbox            | 2 Video Conferencing
+360011355291        | checkbox            | Video Conferencing
+360011355311        | checkbox            | 3 Video Conferencing
+360011436432        | integer             | OS Disk size (GB)
+360011436512        | integer             | Data Disk size (GB)
+360011436532        | integer             | VLAN Number
+360011436972        | tagger              | OS pre installed (Yes/No)?
+360011517551        | decimal             | CPU Cores
+360011517731        | integer             | Memory (GB)
+360011518271        | text                | OS Name and Version
+360011590292        | tagger              | Library Request Category (select one)
+360011595152        | text                | First and Last Name
+360011595452        | text                | Country
+360011595472        | text                | Institutional affiliation
+360011596152        | textarea            | Shipping address
+360011596312        | text                | Call #
+360011596332        | text                | Author
+360011596352        | text                | Title
+360011596372        | textarea            | Optional volumes and/or parts
+360011596692        | text                | Department
+360011596752        | tagger              | Status on campus
+360011597212        | text                | Describe your research project or topic
+360011597772        | textarea            | Updates to your course listing
+360011598272        | text                | Department or group
+360011598292        | tagger              | Room requested
+360011598452        | text                | Start time
+360011598892        | textarea            | Did you find what you needed?
+360011674091        | text                | Street address
+360011674111        | text                | City
+360011674131        | text                | State (if applicable)
+360011674151        | text                | Zip Code (if applicable)
+360011674191        | text                | Purpose of research
+360011675271        | text                | LOCATION
+360011675431        | text                | Published Information
+360011675971        | text                | Title for purchase consideration
+360011675991        | text                | Publisher or vendor, and date (if applicable)
+360011676011        | textarea            | Where did you find the information about this material?
+360011676231        | textarea            | Describe your research project or topic
+360011676251        | textarea            | Times that you are available
+360011676811        | textarea            | Course information
+360011677251        | date                | Start date
+360011677271        | date                | End date (if multiday)
+360011677291        | text                | End time
+360011677311        | textarea            | Event description
+360011677471        | tagger              | Service
+360011841492        | checkbox            | Ethernet cable(s)
+360011841512        | checkbox            | HDMI cable(s)
+360011841532        | checkbox            | Memory
+360011845792        | tagger              | Campus Status
+360011846272        | text                | What club or department?
+360011884152        | text                | Project ID
+360011885731        | tagger              | Computer Repair - Laptop Rental Request Category
+360011886131        | text                | Invoiceable Item - Enter RepairTrax ticket #
+360011886611        | checkbox            | Mice
+360011886631        | checkbox            | Keyboard
+360011886651        | checkbox            | AC Adapter
+360011886671        | checkbox            | Hard drive(s)
+360011886691        | checkbox            | Other
+360011886711        | integer             | Number of laptop(s) requested
+360011886751        | date                | Planned laptop pick-up date
+360011886771        | date                | Planned laptop return date
+360012025492        | text                | Percentage or dollar amount to charge to this account number
+360012025532        | text                | 2nd Billing Account Number
+360012025572        | text                | 3rd Billing Account Number
+360012025592        | text                | Percentage or dollar amount to charge to this 2nd account number
+360012025612        | text                | Percentage or dollar amount to charge to this 3rd account number
+360012027012        | decimal             | Total cost for this request (DotCIO completes)
+360013075412        | text                | Person(s) the Work Order is for
+360013115091        | text                | Phone number(s) for these individual(s)
+360013115131        | text                | Email address(es) for these individual(s)
+360013136672        | text                | Course section
+360013180572        | text                | Do you wish to have an AV Technician present during your entire event?
+360013188552        | tagger              | Do you wish to have an AV Technician present during your entire event?
+360013314992        | text                | Ultra
+360014068392        | text                | Department or organization name
+360014068412        | text                | Existing IP Address
+360014068432        | text                | Desired hostname
+360014068452        | text                | Manufacturer, Model, Serial # and OS
+360014068472        | text                | Existing Hostname/IP Address
+360014068492        | text                | Changes needed
+360014099751        | text                | Name of the primary user of the host if not the requester
+360014099771        | text                | Building and room number where the host is located
+360014359532        | text                | 21 Course Number
+360014359552        | text                | 24 Course Number
+360014359572        | text                | 21 Section
+360014359592        | text                | 24 Section
+360014359612        | text                | 22 CRN
+360014359772        | text                | 23 CRN
+360014359792        | text                | 24 CRN
+360014389711        | text                | 22 Course Number
+360014389731        | text                | 23 Course Number
+360014389751        | text                | 25 Course Number
+360014389771        | text                | 22 Section
+360014389791        | text                | 23 Section
+360014389811        | text                | 25 Section
+360014389831        | text                | 21 CRN
+360014389851        | text                | 25 CRN
+360014583372        | text                | URL to Related Problem
+360014583532        | text                | Link to Incident Summary Report
+360014583572        | tagger              | Create Announcement/Alert on Website/TVs
+360014583792        | tagger              | Remove within 3 days of resolution
+360014583812        | checkbox            | Notify IT Exec Management (last public comment)
+360014583972        | checkbox            | Notify Help Desk and Operations
+360014584132        | multiselect         | Service(s) affected (select all that apply)
+360014584232        | text                | Date/Time First Reported or Detected (MM/DD/YY ##:## am or pm)
+360014584452        | decimal             | Total time in hours 99999.99
+360014620771        | checkbox            | Notify IT Managers
+360014620871        | text                | Date/Time Resolved (MM/DD/YY ##:## am or pm)
+360014621451        | text                | If Other Service(s) affected please specify
+360014622891        | text                | High Level Update to Exec Team
+360014655151        | textarea            | High level update to Exec Management Team
+360014984431        | integer             | Flat Laptop fee
+360014984451        | decimal             | Pro-rated laptop fee
+360015690391        | decimal             | Estimated time on this request in .25 hour increments
+360016178332        | text                | Malicious URL
+360018458032        | text                | Laptop Manufacturer
+360018503291        | text                | Service tag or Serial Number
+360019605652        | tagger              | Change Type
+360019606152        | text                | Change Start Date/Time (MM/DD/YY ##:## am or pm)
+360019606172        | textarea            | Implementation plan
+360019606212        | textarea            | Backout plan
+360019606252        | textarea            | Reason(s) for change
+360019622532        | text                | If there is a Problem ticket associated please paste URL to ticket here
+360019657831        | text                | Change End Date/Time (MM/DD/YY ##:## am or pm)
+360019657911        | tagger              | Change outcome
+360019657931        | textarea            | Outcome Explanation
+360019657971        | textarea            | Identified risks
+360019658291        | tagger              | Change Risk
+360019658351        | tagger              | Impact of change
+360019658751        | textarea            | Impact Explanation
+360020695592        | text                | Billing Department/Campus Affiliation for Work Order
+360020695612        | text                | Billing Contact Email for Work Order
+360020695632        | text                | Billing Contact Phone Number(s) for Work Order
+360020695652        | text                | Billing Account Number for Work Order
+360020743811        | text                | Billing Contact Name(s) for Work Order
+360021426612        | tagger              | Is there a TV in place already?
+360021477711        | text                | Building(s) and Room Number(s) for Installation
+360021477751        | multiselect         | What type of space is it?
+360021477931        | checkbox            | If you do not have a TV, check here if you would like assistance in purchasing one?
+360021478451        | tagger              | What type of space is it?
+360021539791        | integer             | Quantity
+360021988491        | tagger              | LMS Course Platform
+360026213191        | text                | Manufacture Ticket (IBM: CPN)
+360026981071        | text                | Manufacture Ticket 2 (IBM: PMR)
+360033140131        | tagger              | Plotter Number
+360034845512        | tagger              | Campus status (select one)
+360035810411        | text                | Contact Name if different from submitter
+360035810431        | text                | Contact Email if different from submitter
+360035810451        | textarea            | Software Description and any additional modules
+360035810471        | textarea            | Software Purpose
+360035810491        | text                | Course Title
+360035810531        | text                | Course Number
+360035810691        | text                | Project Title
+360035810711        | textarea            | Integrations with other applications
+360035810731        | tagger              | Course User Base
+360035810751        | tagger              | Department Software usage
+360035810771        | tagger              | Research User Base
+360035810791        | text                | Source of funding
+360035810851        | text                | Vendor Sales Rep
+360035810871        | text                | Vendor Phone Number
+360035810891        | text                | Vendor Email
+360035810911        | tagger              | Requested Accessibility Compliance Report (based on VPAT 2.0 or newer)
+360035810931        | tagger              | License Package(s)
+360035811011        | multiselect         | Department User Base (select all that apply)
+360035811091        | text                | Other License Restriction (please describe)
+360035811271        | multiselect         | Cloud availability/Operating System (select all that apply)
+360035811431        | text                | Number of Licenses/Users
+360035811471        | date                | Deadline date for installing
+360035811491        | text                | Reason for deadline
+360035811531        | tagger              | Single Sign-On integration (Yes/No)
+360035811571        | tagger              | Vendor Quote and Terms and Conditions attached (Yes/No)
+360035811651        | text                | License Server
+360035811671        | text                | IP Address
+360035811691        | date                | Installation date
+360035862132        | text                | Contact Department if different from submitter
+360035862152        | text                | Software Name
+360035862452        | tagger              | Software Usage
+360035862752        | text                | Course Sections
+360035862772        | text                | Research Title
+360035862792        | text                | Other, please describe
+360035862812        | tagger              | User Base - required access permission
+360035863012        | text                | Vendor Name
+360035863172        | text                | Vendor Website
+360035863352        | multiselect         | Course User Base (select all that apply)
+360035863512        | multiselect         | Research User Base (select all that apply)
+360035863552        | tagger              | License Restriction
+360035863912        | text                | Other (please describe)
+360035864092        | text                | Requisition Number
+360035864112        | text                | Port #
+360035864272        | text                | Installed by
+360035864312        | date                | Renewal date
+360035864952        | text                | Software version
+360040090111        | text                | Portfolio Name
+360040090151        | text                | Department Name
+360040090331        | text                | Job Title
+360040090731        | textarea            | Desktop/Laptop/accessories needed
+360040090751        | date                | Actual Start Date
+360040090951        | tagger              | Transfer from a different department?
+360040091131        | text                | Software applications needed not on image
+360040091291        | text                | Please specify which shared room resources need access to, if any
+360040130572        | date                | Targeted Start Date
+360040130732        | text                | Employee First Name
+360040130792        | text                | RCS userid
+360040131132        | text                | Which Portfolio/Department are they from?
+360040131152        | text                | External email address
+360040131172        | text                | Office location - building and room #
+360040131212        | text                | Please specify network drives need access to, if any
+360040131232        | text                | Please specify which shared email need access to, if any
+360040131252        | text                | Please specify which shared calendars need access to, if any
+360040169312        | text                | Business Area Other (please specify)
+360040169872        | tagger              | Business Area (select one)
+360040924072        | tagger              | Software at the stage of vendor information and installation (Yes/No)?
+360043210611        | text                | User Base other
+360046859972        | text                | Model
+360046859992        | text                | RPI email address:
+360046890651        | multiselect         | I anticipate having access to a laptop until my MCP system arrives:
+360046890811        | multiselect         | Approximate years old
+1900000506547       | text                | Make
+5202809953933       | tagger              | Service need privileged account (select one)
+5202866653581       | text                | Other service, please specify:
+5202934965773       | textarea            | What task(s) are to be performed?
+5202954023437       | textarea            | What role(s) are needed to perform these task(s)?
+5202996429965       | tagger              | How often do you need to perform these task(s)?
+5203034132493       | text                | Briefly describe how often:
+5203061896973       | tagger              | How long do you require this access?
+5203084994829       | date                | For short-term please provide an end date:
+5203194025613       | textarea            | How would you accomplish this task if you were not granted this access?
+9461475626381       | custom_status       | Ticket status
+10444547139213      | tagger              | Device for yourself Yes/No?
+10444609223821      | text                | If No, provide RPI email of primary computer user:
+10444648799629      | tagger              | Do we need to consult with this individual on this purchase Yes/No?
+10444670372365      | tagger              | Are you the budget approver Yes/No?
+10444723426573      | text                | If No, provide RPI email of budget approver:
+10444738516621      | text                | Model from recommended list?
+10444852632205      | tagger              | Model from recommended list Yes/No?
+10444856294925      | text                | If No, provide information/link to device you wish to purchase?
+10444912764429      | tagger              | Is this purchase urgent Yes/No?
+10444935713933      | tagger              | Do you have an approved budget to support this purchase Yes/No?
+10445013690765      | text                | Description of uncommon software (if any) and provide links to system requirements if possible:
+10445038160653      | text                | Provide information on any additional peripherals or other products you would like to purchase (if any)?
+10445194745101      | text                | If No, please provide additional information
+10446580837133      | text                | Please specify model you would like to purchase:
+11423776429197      | text                | Please specify printer names they need access to if any
+12540146136845      | tagger              | A/V Request Category
+12540278558093      | checkbox            | Please CLICK the below link to request assistance
+13861283017997      | text                | RIN
+20304995512973      | text                | Linked Data
+20305712874381      | tagger              | Does this person need access to OBIEE Yes/No?
+21152713840653      | integer             | How many needed?
+21152743117837      | date                | End Date?
+25579694302989      | checkbox            | Bug related?
+28940941424141      | tagger              | Select one:
+28941825876109      | tagger              | Do you need to purchase a laptop through DotCIO for this individual?
+28941851469325      | text                | Which model?
+28941917167885      | text                | FOAPAL
+28941957696909      | text                | RPI email address of individual with budgetary authority
+28942435707149      | tagger              | Do you have a computer/laptop that needs to be imaged for this individual?
+28946164896525      | tagger              | Will this individual be using a desk phone?
+28946277314445      | tagger              | Select if new phone or existing phone
+28946290377869      | text                | Existing phone number
+28946316935437      | text                | Provide FOAPAL
+28946318283021      | text                | MAC address of existing phone
+28946350658829      | text                | Provide RPI email address of individual with budgetary authority
+28946366270349      | tagger              | Do they need voicemail?
+28946418170125      | tagger              | Do they need Jabber (software for work phone - one time license cost is $100)?
+28946461245453      | text                | Provide FOAPAL for license cost
+28946515703693      | text                | Provide RPI email address of individual for budgetary authority for Jabber license
+29003839242509      | tagger              | Choose one:
+31514305948301      | text                | Employee Last Name
+32895293820813      | text                | PID/VID (next to MAC address)
+33278430098189      | tagger              | Does this person require access to WebEx scheduler in Outlook?
+33278465424653      | tagger              | Does this person require access to Box for Outlook?
+34240898535437      | tagger              | Do they need Adobe Creative Cloud software
+34240913933069      | text                | Provide RPI email address of individual for budgetary authority for Adobe Creative Cloud license
+34240929821709      | text                | Provide FOAPAL for license cost for Adobe CC
+34783722050061      | tagger              | Building (select one)
+37932032068877      | tagger              | DepartmentArea
+38160264353165      | tagger              | Status Fac/Staff/Stu
+38160309808653      | tagger              | Mitigation for WindowsEOL
